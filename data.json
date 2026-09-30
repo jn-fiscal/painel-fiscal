@@ -1,1 +1,426 @@
-   []
+[
+  {
+    "jur": "federal",
+    "titulo": "Aplicação das regras MDF-e integrado e validações do RNTRC",
+    "resumo": "",
+    "fonte": "Avisos oficiais do MDF-e (SVRS)",
+    "link": "https://dfe-portal.svrs.rs.gov.br/Mdfe/#",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "ATO CONJUNTO RFB/CGIBS Nº 1, DE 22 DE DEZEMBRO DE 2025",
+    "resumo": "",
+    "fonte": "Portal oficial do MDF-e (SVRS)",
+    "link": "https://www.in.gov.br/web/dou/-/ato-conjunto-rfb/cgibs-n-1-de-22-de-dezembro-de-2025-677624586",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Convênio ICMS 92/2012",
+    "resumo": "",
+    "fonte": "Portal oficial do MDF-e (SVRS)",
+    "link": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV092_12",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "ATO COTEPE/ICMS 124/22",
+    "resumo": "",
+    "fonte": "Portal oficial do MDF-e (SVRS)",
+    "link": "https://www.confaz.fazenda.gov.br/legislacao/atos/2022/ato-cotepe-icms-124-22",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Schemas",
+    "resumo": "",
+    "fonte": "Portal oficial do MDF-e (SVRS)",
+    "link": "https://dfe-portal.svrs.rs.gov.br/#",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Implantada a regra de validação de exigencia de IBS e CBS no ambiente de homologação",
+    "resumo": "",
+    "fonte": "Portal oficial do MDF-e (SVRS)",
+    "link": "https://dfe-portal.svrs.rs.gov.br/Mdfe/Noticias/2981",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Implantadas NTs 2026.002 em PRODUÇÃO na SVRS",
+    "resumo": "",
+    "fonte": "Portal oficial do MDF-e (SVRS)",
+    "link": "https://dfe-portal.svrs.rs.gov.br/Mdfe/Noticias/3005",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Implantação no ambiente de produção da versão 1.13 da NT da Reforma Tributária",
+    "resumo": "",
+    "fonte": "Avisos oficiais do CT-e (SVRS)",
+    "link": "https://dfe-portal.svrs.rs.gov.br/Cte/#",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Publicada v. 1.00 da Nota Técnica 2026.002 (Nota técnica de adequação dos leiautes do CT-e, do CT-eOS e da GTV-e)",
+    "resumo": "",
+    "fonte": "Portal Nacional do CT-e",
+    "link": "https://www.cte.fazenda.gov.br/portal/informe.aspx?informe=172",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Publicada v. 1.00 da Nota Técnica 2026.002 (Nota técnica de adequação dos leiautes do BP-e, BPeTA e BP-e TM e das regras de validação referentes à Reforma Tributária do Consumo - RTC).",
+    "resumo": "",
+    "fonte": "Portal Nacional do CT-e",
+    "link": "https://www.cte.fazenda.gov.br/portal/informe.aspx?informe=173",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "CNPJs alfanuméricos cadastrados no CCC de homologação para testes das empresas",
+    "resumo": "",
+    "fonte": "Portal Nacional do CT-e",
+    "link": "https://www.cte.fazenda.gov.br/portal/informe.aspx?informe=175",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Secretaria Especial da Receita Federal do Brasil e Comitê Gestor do IBS publicam Ato Conjunto RFB/CGIBS nº 4/2026",
+    "resumo": "",
+    "fonte": "Portal Nacional do CT-e",
+    "link": "https://www.cte.fazenda.gov.br/portal/informe.aspx?informe=176",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "ATENÇÃO: CNPJ de Teste para Alfanumérico (Novidade: Adicionados NFe e e NFCe)",
+    "resumo": "",
+    "fonte": "Avisos oficiais da NF-e (SVRS)",
+    "link": "https://dfe-portal.svrs.rs.gov.br/Nfe/#",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Publicação da Nota Técnica 2014.001 v.1.41 (EPEC)",
+    "resumo": "",
+    "fonte": "Portal Nacional da NF-e",
+    "link": "https://www.nfe.fazenda.gov.br/portal/informe.aspx?ehCTG=false&Informe=8ITFuBLltXs=",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Publicado Ato Conjunto RFB/CGIBS nº 2, de 2026",
+    "resumo": "",
+    "fonte": "Portal Nacional da NF-e",
+    "link": "https://www.nfe.fazenda.gov.br/portal/informe.aspx?ehCTG=false&Informe=0XLIO6BXjX0=",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "NF-e ABI",
+    "resumo": "",
+    "fonte": "Portal Nacional da NF-e",
+    "link": "https://www.nfe.fazenda.gov.br/portal/?tipoConteudo=A/NFALwUh+4=",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Coordenação-Geral de Publicação, Produção e Preservação - CGPPP",
+    "resumo": "",
+    "fonte": "Diário Oficial da União",
+    "link": "https://www.in.gov.br/imprensanacional/pt-br/composicao/coordenacao-geral-de-publicacao-e-divulgacao-coged",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Portaria CGIBS nº 10 2026(.pdf 502,00 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Portarias",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202608/28152155-minuta-portaria-cgibs-n-10-2026-acordos-de-adesao-28-08.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Portaria CGIBS nº 9 2026 Eleição e a posse da Segunda Vice Presidente do Conselho Superior CGIBS(.pdf 329,50 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Portarias",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202608/17191457-portaria-cgibs-n-9-2026-eleicao-e-a-posse-da-segunda-vice-presidente-do-conselho-superior-cgibs.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Portaria CGIBS nº 8 2026 Eleição e a posse dos diretores da Diretoria Executiva, do Corregedor Geral e do Auditor Inter(.pdf 575,67 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Portarias",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202608/17191458-portaria-cgibs-n-8-2026-eleicao-e-a-posse-dos-diretores-da-diretoria-executiva-do-corregedor-geral-e-do-auditor-interno-geral.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Portaria CGIBS nº 7 2026(.pdf 610,68 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Portarias",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202608/14171015-portaria-cgibs-n-7-2026.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "2026 07 10 PORTARIA Equipe e Informações Orçamento CGIBS 2027 L v2(.pdf 401,53 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Portarias",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202607/13154419-2026-07-10-portaria-equipe-e-informacoes-orcamento-cgibs-2027-l-v2.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Portaria CGIBS n 5 de 2026 Eleição e Posse do DIREX(.pdf 829,23 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Portarias",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202607/07125402-portaria-cgibs-n-5-de-2026-eleicao-e-posse-do-direx.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Portaria CGIBS nº 4 2026(.pdf 549,92 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Portarias",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202606/29131357-portaria-cgibs-n-4-2026.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Portaria CGIBS nº 3 2026(.pdf 640,56 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Portarias",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202606/09172813-portaria-cgibs-n-3-2026.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Portaria CGIBS nº 2 2026(.pdf 550,86 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Portarias",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202606/08135751-portaria-cgibs-n-2-2026.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Portaria CGIBS nº 1 2026(.pdf 587,21 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Portarias",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202605/18155850-portaria-cgibs-n-1-2026.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Resolução CGIBS Nº 13, de 22 de julho de 2026(.pdf 469,88 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Regulamentos",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202607/22121010-resolucao-cgibs-n-13-de-22-de-julho-de-2026.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Res CGIBS N 6, 30 abr 2026 Regulamenta o IBS(.pdf 2,76 MBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Regulamentos",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202604/30084927-res-cgibs-n-6-30-abr-2026-regulamenta-o-ibs.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "ADE RFB CGIBS N 6(.pdf 854,51 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Atos Conjuntos",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202608/28193542-ade-rfb-cgibs-n-6-28-8-2026-com-paragrafo-unico-assinado.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Ato Conjunto RFB CGIBS n%C2%BA 5 2026 Regulamenta o Programa Nacional de Conformidade Tributaria docx assinado(.pdf 369,59 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Atos Conjuntos",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202608/13065932-ato-conjunto-rfb-cgibs-n-c2-ba-5-2026-regulamenta-o-programa-nacional-de-conformidade-tributaria-docx-assinado.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "20260730 16h30 ATO CONJUNTO RFB CGIBS NA%C2%BA 4 260731 090909(.pdf 846,91 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Atos Conjuntos",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202607/31091735-20260730-16h30-ato-conjunto-rfb-cgibs-na-c2-ba-4-260731-090909.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Ato Conjunto RFB e CIBS %2827 05%29 assinado(.pdf 715,87 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Atos Conjuntos",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202606/03111600-ato-conjunto-rfb-e-cibs-2827-05-29-assinado.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "ATO CONJUNTO RFB CGIBS Nº 1, DE 22 DE DEZEMBRO DE 2025(.pdf 160,22 KBytes)",
+    "resumo": "",
+    "fonte": "CGIBS - Atos Conjuntos",
+    "link": "https://www.cgibs.gov.br/upload/arquivos/202609/09104120-ato-conjunto-rfb-cgibs-n-1-de-22-de-dezembro-de-2025.pdf",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Regimes Específicos: veja atualização dos esquemas XSD dos eventos D-1011 e D-1101 na Produção Restrita",
+    "resumo": "",
+    "fonte": "Comitê Gestor do IBS",
+    "link": "https://www.cgibs.gov.br/dere-atualizacao-dos-esquemas-xsd-dos-eventos-d-1011-e-d-1101-na-producao-restrita",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Declaração de Regimes Específicos: CGIBS e Receita Federal divulgam endpoints do ambiente de produção",
+    "resumo": "",
+    "fonte": "Comitê Gestor do IBS",
+    "link": "https://www.cgibs.gov.br/dere-cgibs-e-receita-federal-divulgam-endpoints-do-ambiente-de-producao",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Sobre o Piloto da CBSO projeto piloto tem como objetivo testar e aprimorar os sistemas e processos relativos à Contribuição sobre Bens e Serviços (CBS)",
+    "resumo": "",
+    "fonte": "Programa da Reforma Tributária do Consumo",
+    "link": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/piloto",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Documentos FiscaisSaiba mais sobre a atualização de documentos fiscais para a Reforma Tributária.",
+    "resumo": "",
+    "fonte": "Programa da Reforma Tributária do Consumo",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/empresas-e-negocios/dfe",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Painel da Reforma Tributária do ConsumoPainel (dashboard) da Reforma Tributária do Consumo",
+    "resumo": "",
+    "fonte": "Programa da Reforma Tributária do Consumo",
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiNzg5MDA4M2UtYWZiZC00Y2U5LTkzYjctNTc4MzBkYTU0ZDhkIiwidCI6IjZmNDlhYTQzLTgyMmEtNGMyMC05NjcwLWRiNzcwMGJmMWViMCJ9",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Mais notícias da Reforma Tributária…",
+    "resumo": "",
+    "fonte": "Programa da Reforma Tributária do Consumo",
+    "link": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/programas-e-atividades/reforma-tributaria-do-consumo/ultimas-noticias/noticias",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Aviso de Pauta: Força-Tarefa - Reforma Tributária",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/aviso-de-pauta-forca-tarefa-reforma-tributaria",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Orientação Conjunta Receita Federal/CGIBS",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/orientacao-conjunta-rfb-cgibs",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Receita Federal divulga balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-divulga-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Receita Federal divulga novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-divulga-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Receita Federal e Conselho Federal de Contabilidade concluem ampla capacitação nacional sobre a Reforma Tributária do Consumo",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-e-conselho-federal-de-contabilidade-concluem-ampla-capacitacao-nacional-sobre-a-reforma-tributaria-do-consumo",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Nota Fiscal Eletrônica do Ouro (NF-e Ouro)",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/nfeouro",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Nota Fiscal Eletrônica",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "http://www.nfe.fazenda.gov.br",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Reforma Tributária",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/formularios/reforma-tributaria",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Piloto da Reforma Tributária do Consumo",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/piloto-da-reforma-tributaria-do-consumo",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Escolher Regime de Apuração de IBS e CBS",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/pt-br/servicos/escolher-regime-de-apuracao-de-bens-e-servicos-ibs-e-da-contribuicao-sobre-bens-e-servicos-cbs",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Aderir ao Piloto da Reforma Tributária da Contribuição sobre Bens e Serviços (CBS)",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/pt-br/servicos/aderir-ao-piloto-da-cbs",
+    "data": "30/09/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "• Reforma Tributária",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/reforma-tributaria",
+    "data": "30/09/2026"
+  }
+]
