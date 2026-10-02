@@ -1,6 +1,38 @@
 [
   {
     "jur": "federal",
+    "titulo": "Implantação no ambiente de produção da versão 1.13 da NT da Reforma Tributária",
+    "resumo": "",
+    "fonte": "Portal oficial do MDF-e (SVRS)",
+    "link": "https://dfe-portal.svrs.rs.gov.br/Mdfe/Avisos/2974",
+    "data": "02/10/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "ATENÇÃO: CNPJ de Teste para Alfanumérico (Novidade: Adicionados NFe e e NFCe)",
+    "resumo": "",
+    "fonte": "Portal oficial do MDF-e (SVRS)",
+    "link": "https://dfe-portal.svrs.rs.gov.br/Mdfe/Avisos/2978",
+    "data": "02/10/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Receita Federal e Comitê Gestor do IBS divulgam Orientação Conjunta destinada às sociedades cooperativas",
+    "resumo": "",
+    "fonte": "Comitê Gestor do IBS",
+    "link": "https://www.cgibs.gov.br/receita-federal-e-comite-gestor-do-imposto-sobre-bens-e-servicos-divulgam-orientacao-conjunta",
+    "data": "02/10/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Opção do contribuinte por Simples Nacional ou pelo regime regular de CBS e IBS para 2027 tem novos prazos",
+    "resumo": "",
+    "fonte": "Comitê Gestor do IBS",
+    "link": "https://www.cgibs.gov.br/embora-os-periodos-sejam-parecidos-tratam-de-escolhas-diferentes-por-isso-e-importante-entender-cada-situacao",
+    "data": "02/10/2026"
+  },
+  {
+    "jur": "federal",
     "titulo": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
     "resumo": "",
     "fonte": "Notícias da Receita Federal",
