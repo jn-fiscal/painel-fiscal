@@ -1,6 +1,22 @@
 [
   {
     "jur": "federal",
+    "titulo": "Publicado no dia 01/10/26 o Ato Conjunto RFB/CGIBS nº 8, de 2026",
+    "resumo": "",
+    "fonte": "Portal Nacional da NF-e",
+    "link": "https://www.nfe.fazenda.gov.br/portal/informe.aspx?ehCTG=false&Informe=aG9hbbgK/JM=",
+    "data": "03/10/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+    "data": "03/10/2026"
+  },
+  {
+    "jur": "federal",
     "titulo": "Implantação no ambiente de produção da versão 1.13 da NT da Reforma Tributária",
     "resumo": "",
     "fonte": "Portal oficial do MDF-e (SVRS)",
