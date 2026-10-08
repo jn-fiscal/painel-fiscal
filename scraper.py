@@ -43,6 +43,7 @@ KEYWORDS_MS = KEYWORDS + [
     "gado", "carne", "couro", "miúdos", "miudos",
     "proape", "precoce", "fundersul", "fadefe", "pauta fiscal", "vrp", "pmpf",
     "decreto", "resolução", "resolucao", "portaria", "ricms",
+    "lei nº", "lei n°", "lei estadual", "lei complementar", "convênio", "convenio",
 ]
 
 
@@ -62,7 +63,7 @@ TITULOS_GENERICOS = {
     "cgibs - comite gestor do ibs",
 }
 
-PALAVRAS_DESCARTE = ["instagram", "facebook", "youtube", "podcast"]
+PALAVRAS_DESCARTE = ["instagram", "facebook", "youtube", "podcast", "pauta de julgamento"]
 
 
 def eh_lixo(titulo: str, link: str) -> bool:
@@ -90,7 +91,8 @@ FONTES = [
     ("federal", "Legislação do CONFAZ", "https://www.confaz.fazenda.gov.br/legislacao", False, True),
     ("federal", "Diário Oficial da União", "https://www.in.gov.br/", False, True),
 
-    ("ms", "Legislação da SEFAZ-MS", "https://arq.sefaz.ms.gov.br/inicio/legislacao.asp", True, False),
+    ("ms", "Legislação da SEFAZ-MS (índice)", "https://www.sefaz.ms.gov.br/legislacao/", True, True),
+    ("ms", "Legislação da SEFAZ-MS (consulta completa)", "https://arq.sefaz.ms.gov.br/inicio/legislacao.asp", True, False),
     ("ms", "Diário Oficial Eletrônico de MS", "https://www.spdo.ms.gov.br/", True, True),
     ("ms", "Indicadores da SEFAZ-MS", "https://www.sefaz.ms.gov.br/indicadores/", True, True),
     ("ms", "Consulta de valores da SEFAZ-MS", "https://consultavalorsefaz.ms.gov.br/busca", True, True),
@@ -129,10 +131,15 @@ def fetch_fonte(jur, nome, url, usar_keywords_ms, verificar_ssl=True):
 
     resp = None
     ultimo_erro = None
-    for _ in range(2):  # duas tentativas, timeout maior
+    for _ in range(2):  # duas tentativas
         try:
-            resp = requests.get(url, timeout=30, headers=HEADERS, verify=verificar_ssl)
+            resp = requests.get(url, timeout=(10, 30), headers=HEADERS, verify=verificar_ssl)
             resp.raise_for_status()
+            break
+        except requests.exceptions.ConnectTimeout as e:
+            # site não responde a este servidor (bloqueio): não adianta insistir
+            ultimo_erro = e
+            resp = None
             break
         except Exception as e:
             ultimo_erro = e
