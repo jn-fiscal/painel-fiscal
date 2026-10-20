@@ -1,6 +1,14 @@
 [
   {
     "jur": "federal",
+    "titulo": "NT 2026.004 Implantada em Homologação da SVRS",
+    "resumo": "",
+    "fonte": "Portal oficial do MDF-e (SVRS)",
+    "link": "https://dfe-portal.svrs.rs.gov.br/Mdfe/Avisos/3013",
+    "data": "20/10/2026"
+  },
+  {
+    "jur": "federal",
     "titulo": "Republicado o schema PL_CTe_400_NT 2026.004 1.00 para viabilizar conciliação EPEC",
     "resumo": "",
     "fonte": "Portal Nacional do CT-e",
