@@ -1,6 +1,38 @@
 [
   {
     "jur": "federal",
+    "titulo": "Comunica alteração de data de implantação em produção de Nota Técnica publicada.",
+    "resumo": "",
+    "fonte": "Portal Nacional do CT-e",
+    "link": "https://www.cte.fazenda.gov.br/portal/informe.aspx?informe=183",
+    "data": "28/10/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Publicada Nota Técnica 2023.002 v1.02",
+    "resumo": "",
+    "fonte": "Portal Nacional da NF-e",
+    "link": "https://www.nfe.fazenda.gov.br/portal/informe.aspx?ehCTG=false&Informe=ADlgg2xjMZI=",
+    "data": "28/10/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Comunica alteração de datas de implantação em produção de Notas Técnicas publicadas.",
+    "resumo": "",
+    "fonte": "Portal Nacional da NF-e",
+    "link": "https://www.nfe.fazenda.gov.br/portal/informe.aspx?ehCTG=false&Informe=74KmX8poGpM=",
+    "data": "28/10/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Receita Federal destaca Programa Confia em seminário regional sobre conformidade cooperativa na Guatemala",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-destaca-programa-confia-em-seminario-regional-sobre-conformidade-cooperativa-na-guatemala",
+    "data": "28/10/2026"
+  },
+  {
+    "jur": "federal",
     "titulo": "Novas medidas simplificam obrigações da Reforma Tributária para nanoempreendedores e MEIs",
     "resumo": "",
     "fonte": "Notícias da Receita Federal",
