@@ -1,6 +1,22 @@
 [
   {
     "jur": "federal",
+    "titulo": "Validações do Ambiente de Homologação da NT 2026.004",
+    "resumo": "",
+    "fonte": "Portal oficial do MDF-e (SVRS)",
+    "link": "https://dfe-portal.svrs.rs.gov.br/Mdfe/Avisos/3021",
+    "data": "09/11/2026"
+  },
+  {
+    "jur": "federal",
+    "titulo": "Receita Federal libera acesso às novas APIs de apuração da CBS",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
+    "data": "09/11/2026"
+  },
+  {
+    "jur": "federal",
     "titulo": "RFB promove encontro com representantes do CFC para tratar de temas relacionados à implantação da Reforma Tributária do Consumo (RTC)",
     "resumo": "",
     "fonte": "Notícias da Receita Federal",
