@@ -1,6 +1,14 @@
 [
   {
     "jur": "federal",
+    "titulo": "Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível",
+    "resumo": "",
+    "fonte": "Notícias da Receita Federal",
+    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/virando-a-chave-para-a-reforma-tributaria-api-para-emissao-do-rad-ja-esta-disponivel",
+    "data": "17/11/2026"
+  },
+  {
+    "jur": "federal",
     "titulo": "Receita Federal publica primeiro código-fonte aberto no GitHub e amplia transparência da Reforma Tributária",
     "resumo": "",
     "fonte": "Notícias da Receita Federal",
